@@ -1,2 +1,3 @@
-# Unit1Marketing
-A list of default marketing page templates for Build Weeks projects.
+# Marketing Pages for Build Weeks Products
+
+Here is a curated listed of responsive templates for use in your Build Week projects.
